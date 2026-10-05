@@ -1,4 +1,14 @@
 # oops-projact-details
+**Introduction
+
+The Library Management System is a C++ based software project developed using Object-Oriented Programming (OOP) concepts. The main purpose of this project is to manage the activities of a library in a simple, efficient, and organized way.
+
+The system allows the librarian to add and display books, search for books, issue and return books, and maintain student/member records. It reduces manual work and makes the process of managing library records easier and faster.
+
+This project demonstrates important OOP concepts such as classes, objects, encapsulation, constructors, inheritance, polymorphism, function overloading, and function overriding. C++ is used to develop the system because it provides strong support for object-oriented programming.
+
+The Library Management System is useful for understanding how programming concepts can be applied to a real-world problem. It can also be extended in the future by adding features such as file handling, fine calculation, login authentication, due-date management, and database connectivity.
+
 *code
 #include <iostream>
 #include <vector>
